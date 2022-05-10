@@ -1,1 +1,1 @@
-# dz_7_korkin
+# dz7
